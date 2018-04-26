@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-26T01:27:24.931Z</updated>
+  <updated>2018-04-25T14:12:55.479Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,27 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>欢迎，世界！</title>
-    <link href="http://yoursite.com/2018/04/25/test/"/>
-    <id>http://yoursite.com/2018/04/25/test/</id>
-    <published>2018-04-26T01:27:24.931Z</published>
-    <updated>2018-04-26T01:27:24.931Z</updated>
-    
-    <content type="html"><![CDATA[<p>欢迎来到<a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! 这是您的第一篇文章。在<a href="https://hexo.io/docs/" target="_blank" rel="noopener">文档</a>中查找更多信息。如果在您使用Hexo的过程中出现任何问题，您可以在<a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">疑难解答</a>中寻找答案或者您可以在 <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">Github</a> 向我们提问。</p><h2 id="快速开始"><a href="#快速开始" class="headerlink" title="快速开始"></a>快速开始</h2><h3 id="新建文章"><a href="#新建文章" class="headerlink" title="新建文章"></a>新建文章</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>更多信息:<a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">写作</a>  </p><h3 id="运行服务"><a href="#运行服务" class="headerlink" title="运行服务"></a>运行服务</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>更多信息:<a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">服务</a>  </p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br><span class="line">```  </span><br><span class="line"></span><br><span class="line">更多信息:[生成](https://hexo.io/docs/generating.html)</span><br><span class="line"></span><br><span class="line"><span class="comment">### 部署远程页面</span></span><br><span class="line"></span><br><span class="line">``` bash</span><br><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>更多信息:<a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">部署</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;欢迎来到&lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! 这是您的第一篇文章。在&lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;n
-      
-    
-    </summary>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
